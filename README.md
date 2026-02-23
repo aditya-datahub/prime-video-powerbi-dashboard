@@ -21,9 +21,7 @@ The dashboard transforms raw data into meaningful business insights using KPI me
 
 ## 📷 Dashboard Preview
 
-<p align="center">
-  <img src="dashboard.png" width="900">
-</p>
+![Prime Video Dashboard](images/dashboard.png)
 
 ---
 
